@@ -1,0 +1,34 @@
+FORMA — V03
+
+Open V03.html in a current browser. All libraries, fonts and the logo are
+embedded; the tool does not need an internet connection.
+
+FONTS
+Text > Font offers Monoline, Slanted, Sans outline and Serif outline.
+Use "Import font from Files" to select a .ttf, .otf or .woff file from your
+computer or the iPad Files app. Imported fonts are included in saved projects.
+Installed device fonts cannot be automatically enumerated on iPad Safari.
+WOFF2, color fonts and advanced contextual/RTL shaping are not supported.
+Fonts produce outline strokes, not single-line centerlines. Use Monoline
+for the original single-line style. Maximum 8 imported fonts, 8 MB per font.
+
+TOUCH
+In Move mode: one finger orbits; two fingers pan and pinch to zoom.
+In Paint mode: draw with a finger or Apple Pencil; tap Move to navigate.
+The Undo and Redo buttons are above the canvas.
+On compact layouts, tap Layers to access composition, visibility and background.
+Portrait layouts place scrollable controls below the canvas.
+
+V03 CHANGES
+Jazi logo retained. Tool renamed Forma.
+Removed introductory copy, preset cards, quote panel, canvas labels and footer.
+Larger controls, touch targets and responsive iPad layouts.
+V02 raster paint, milk forms, imports and exports are retained.
+SVG remains disabled while the project contains painting.
+Save project before closing; V01/V02 projects can still be opened.
+
+CHECKS
+Chrome WebGL, built-in fonts, local TTF import, project save/reopen and
+iPad-sized portrait/landscape layouts passed automated checks.
+Tested with emulated touch and screen sizes, not on physical iPad hardware.
+Movie recording and physical Apple Pencil pressure were not reverified.

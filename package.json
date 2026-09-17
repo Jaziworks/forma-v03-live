@@ -1,0 +1,1 @@
+{"name":"formline-studio","private":true,"type":"module","scripts":{"build":"esbuild src/app.js --bundle --minify --outfile=dist/app.js"},"dependencies":{"ag-psd":"29.0.0","opentype.js":"^2.0.0","three":"0.180.0","three-mesh-bvh":"^0.9.15"},"devDependencies":{"@napi-rs/canvas":"^1.0.9","@playwright/test":"^1.63.0","esbuild":"0.25.10","happy-dom":"^20.14.5"}}
